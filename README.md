@@ -55,12 +55,20 @@ An **AI-powered Code Review Platform** built with the **MERN stack**, designed t
 
 ---
 
-## 📸 Screenshots
+### 🤖 AI Code Review Functions
+
+| Feature                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| `Code Review`               | Generates professional review of your code using AI                        |
+| `Sort Code`                 | Sorts messy/unstructured code automatically                                 |
+| `Humanized Review`          | Converts technical feedback into human-readable suggestions                |
+| `Short/Elongated Response`  | Compress or Expand review based on need                                    |
+| `Performance Boost`         | Gives tips to optimize code execution and efficiency                      |
+| `Security Check`            | Detects possible vulnerabilities or insecure patterns                     |
+| `Speech Review`             | Converts feedback to Hindi/English audio using TTS  
 
 | Code Editor | AI Suggestions | Speech Output |
 |-------------|----------------|----------------|
-| ![Editor](![AI Features Code Project Imgaes](https://github.com/user-attachments/assets/cc342cb9-9504-404e-a869-187bce6dcf2c)
-) | ![Review](./assets/review.png) | ![Speech](./assets/speech.png) |
 
 ---
 
