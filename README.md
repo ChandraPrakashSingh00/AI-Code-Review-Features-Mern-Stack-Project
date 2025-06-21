@@ -6,7 +6,8 @@ An **AI-powered Code Review Platform** built with the **MERN stack**, designed t
 
 ---
 
-![AI Code Review Screenshot](./assets/ai-code-review-ui.png) <!-- Replace with actual image path -->
+![AI Code Review Screenshot](![AI Features Code Project Imgaes](https://github.com/user-attachments/assets/68c9f060-c889-436c-a1d8-954d353c3a71)
+) <!-- Replace with actual image path -->
 
 ---
 
@@ -58,7 +59,8 @@ An **AI-powered Code Review Platform** built with the **MERN stack**, designed t
 
 | Code Editor | AI Suggestions | Speech Output |
 |-------------|----------------|----------------|
-| ![Editor](./assets/editor.png) | ![Review](./assets/review.png) | ![Speech](./assets/speech.png) |
+| ![Editor](![AI Features Code Project Imgaes](https://github.com/user-attachments/assets/cc342cb9-9504-404e-a869-187bce6dcf2c)
+) | ![Review](./assets/review.png) | ![Speech](./assets/speech.png) |
 
 ---
 
